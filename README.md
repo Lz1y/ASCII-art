@@ -1,4 +1,5 @@
 # ASCII-art
+exe打包下载地址:http://pan.baidu.com/s/1pLI4JVl <br>
 use Python3.x and PIL to transform a img<br>
 参数说明<br>
 必选参数 file，指定图像文件<br>
